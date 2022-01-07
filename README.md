@@ -15,6 +15,7 @@ effectively to predict the results.
 ![download](https://user-images.githubusercontent.com/61355945/148581879-4acabf6b-0c6a-4d5e-8035-38fd6c562616.png)
 ![download](https://user-images.githubusercontent.com/61355945/148581953-82e60f28-3856-4815-a96d-3165213b2d54.png)
 ![download](https://user-images.githubusercontent.com/61355945/148582291-19fcada6-7367-4a85-981d-f17f084123c1.png)
+![download](https://user-images.githubusercontent.com/61355945/148584715-e47fe2ba-3710-4947-9157-bdff0fc34969.jpg)
 
 #### For dataset files, visit:
 [Dataset](https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0)
